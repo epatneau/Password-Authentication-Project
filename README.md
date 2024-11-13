@@ -5,10 +5,10 @@ Following the correct password being entered the user will be given a message ac
 
 ## Project Outline
 
-- [ ] Add outline and description to ReadMe file
-- [ ] Create dev branch to work in
-- [ ] Create python file
-- [ ] Add comments to python file that outline code
+- [x] Add outline and description to ReadMe file
+- [x] Create dev branch to work in
+- [x] Create python file
+- [x] Add comments to python file that outline code
 - [ ] Assign correct password to variable
 - [ ] Ask user for password and assign to local variable
 - [ ] Use conditional values to compare both passwords
